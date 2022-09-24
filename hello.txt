@@ -1,5 +1,5 @@
-hello gc! hello git! 666666
-hello gc! hello git! 888888
+hello gc! hello git! 666
+hello gc! hello git! 888
 hello gc! hello git!
 hello gc! hello git!
 hello gc! hello git!
