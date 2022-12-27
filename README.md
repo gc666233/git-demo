@@ -993,7 +993,7 @@ load_avg = FP_CONST (0);
 
 ### 三、实验测试结果
 
-![image-20221227153328920](images\1.png)
+![1](images\1.png)
 
 ### 四、实验总结
 
